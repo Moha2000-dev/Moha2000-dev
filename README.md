@@ -1,39 +1,5 @@
 # 👋 Hi, I'm Mohammed (Moha2000-dev)
 
-
-
----
-
-### 🧑‍💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moha2000-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight)
-
----
-
-### 📈 Visitors & Activity
-
-![Profile views](https://komarev.com/ghpvc/?username=Moha2000-dev&color=brightgreen)
-
-
----
-
-### 📊 LeetCode Stats
-
-<!-- Make sure LeetCode username is correct -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap)
-
----
-
-### 🐍 Contribution Snake Animation
-
-![snake gif](https://github.com/Moha2000-dev/Moha2000-dev/blob/output/github-contribution-grid-snake.gif)
-
-
----
 ## 💻 About Me
 - 🎓 Computer Science graduate 
 - 📍 Based in Oman 🇴🇲
@@ -74,6 +40,36 @@
 - 🌐 https://github.com/Moha2000-dev
 
 ---
+
+
+
+### 🧑‍💻 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moha2000-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight)
+
+
+
+### 📈 Visitors & Activity
+
+![Profile views](https://komarev.com/ghpvc/?username=Moha2000-dev&color=brightgreen)
+
+
+
+
+### 📊 LeetCode Stats
+
+<!-- Make sure LeetCode username is correct -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap)
+
+
+### 🐍 Contribution Snake Animation
+
+![snake gif](https://github.com/Moha2000-dev/Moha2000-dev/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
