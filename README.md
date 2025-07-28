@@ -60,13 +60,6 @@
 
 
 
-### 📊 LeetCode Stats
-
-<!-- Make sure LeetCode username is correct -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap)
-
-
-
 
 
 
