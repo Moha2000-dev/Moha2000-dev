@@ -68,11 +68,6 @@
 
 
 
-### 🐍 Contribution Snake Animation
-
-![snake gif](https://github.com/Moha2000-dev/Moha2000-dev/blob/output/github-contribution-grid-snake.gif)
-
-
 
 
 
