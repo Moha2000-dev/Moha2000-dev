@@ -41,9 +41,6 @@
 
 ---
 
-<p align="center">
-  <img src="anime_banner_1000x300.jpg" width="1000" height="300">
-</p>
 
 ---
 
