@@ -56,13 +56,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=green)
-
-![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false)
 
