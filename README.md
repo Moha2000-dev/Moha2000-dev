@@ -1,5 +1,39 @@
 # 👋 Hi, I'm Mohammed (Moha2000-dev)
 
+
+
+---
+
+### 🧑‍💻 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moha2000-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight)
+
+---
+
+### 📈 Visitors & Activity
+
+![Profile views](https://komarev.com/ghpvc/?username=Moha2000-dev&color=brightgreen)
+
+
+---
+
+### 📊 LeetCode Stats
+
+<!-- Make sure LeetCode username is correct -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap)
+
+---
+
+### 🐍 Contribution Snake Animation
+
+![snake gif](https://github.com/Moha2000-dev/Moha2000-dev/blob/output/github-contribution-grid-snake.gif)
+
+
+---
 ## 💻 About Me
 - 🎓 Computer Science graduate 
 - 📍 Based in Oman 🇴🇲
@@ -42,46 +76,9 @@
 ---
 
 
----
 
-### 🧑‍💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moha2000-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight)
-
----
-
-### 📈 Visitors & Activity
-
-![Profile views](https://komarev.com/ghpvc/?username=Moha2000-dev&color=brightgreen)
-
----
-
-### 🧠 Coding Activity (WakaTime)
-
-<!-- Replace with your WakaTime username -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)
-
----
-
-### 📊 LeetCode Stats
-
-<!-- Make sure LeetCode username is correct -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap)
-
----
-
-### 🐍 Contribution Snake Animation
-
-![snake gif](https://github.com/Moha2000-dev/Moha2000-dev/blob/output/github-contribution-grid-snake.gif)
-
-
----
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alalwi-01669b339/)
 [![Email](https://img.shields.io/badge/Email-mohaalialalawi20%40gmail.com-red)](mailto:mohaalialalawi20@gmail.com)
