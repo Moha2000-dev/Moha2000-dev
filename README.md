@@ -39,29 +39,26 @@
 - ✉️ mohaalialalawi20@gmail.com
 - 🌐 https://github.com/Moha2000-dev
 
----
-
-
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       
-  ### 🎯 Gitast Stats  
+  ### 📊 GitHub Stats  
   <img src="https://github-readme-stats.vercel.app/api?username=Moha2000-dev&show_icons=true&theme=tokyonight" width="100%"/>
 
   <img src="https://komarev.com/ghpvc/?username=Moha2000-dev&color=brightgreen" />
   
-  ![Codelangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact&theme=tokyonight" width="100%"/>
 
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       
-  ### ⏳ Coding Activity  
+  ### ⏳ Coding Streak  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight" width="100%"/>
   
-  ### 💡 LeetCode Stats  
+  ### 🧠 LeetCode Stats  
   <img src="https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap" width="100%"/>
-  
+
     </td>
   </tr>
 </table>
