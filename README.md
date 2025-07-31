@@ -54,7 +54,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight" width="100%" />
       <br/>
       <h3>🧠 LeetCode Stats</h3>
-      <img src="https://leetcard.jacoblin.cool/MohaAli?theme=dark&font=Roboto&ext=heatmap" width="100%" />
+      <img src="https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap" width="100%" />
     </td>
   </tr>
 </table>
