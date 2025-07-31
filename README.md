@@ -42,29 +42,26 @@
 ---
 
 
+<table>
+  <tr>
+    <td valign="top">
+      
+  ### 🎯 Gitast Stats  
+  <img src="https://github-readme-stats.vercel.app/api?username=Moha2000-dev&show_icons=true&theme=tokyonight" width="100%"/>
 
-### 🧑‍💻 GitHub Stats
+  <img src="https://komarev.com/ghpvc/?username=Moha2000-dev&color=brightgreen" />
+  
+  ![Codelangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moha2000-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight)
-
-
-
-### 📈 Visitors & Activity
-
-![Profile views](https://komarev.com/ghpvc/?username=Moha2000-dev&color=brightgreen)
-
-
-
-
-
-
-
-
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alalwi-01669b339/)
-[![Email](https://img.shields.io/badge/Email-mohaalialalawi20%40gmail.com-red)](mailto:mohaalialalawi20@gmail.com)
+    </td>
+    <td valign="top">
+      
+  ### ⏳ Coding Activity  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight" width="100%"/>
+  
+  ### 💡 LeetCode Stats  
+  <img src="https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap" width="100%"/>
+  
+    </td>
+  </tr>
+</table>
