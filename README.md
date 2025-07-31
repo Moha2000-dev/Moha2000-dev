@@ -42,23 +42,20 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      
-  ### 📊 GitHub Stats  
-  <img src="https://github-readme-stats.vercel.app/api?username=Moha2000-dev&show_icons=true&theme=tokyonight" width="100%"/>
-
-  <img src="https://komarev.com/ghpvc/?username=Moha2000-dev&color=brightgreen" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact&theme=tokyonight" width="100%"/>
-
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Moha2000-dev&show_icons=true&theme=tokyonight" width="100%" />
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=Moha2000-dev&color=brightgreen" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha2000-dev&layout=compact&theme=tokyonight" width="100%" />
     </td>
     <td valign="top" width="50%">
-      
-  ### ⏳ Coding Streak  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight" width="100%"/>
-  
-  ### 🧠 LeetCode Stats  
-  <img src="https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap" width="100%"/>
-
+      <h3>⏳ Coding Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Moha2000-dev&theme=tokyonight" width="100%" />
+      <br/>
+      <h3>🧠 LeetCode Stats</h3>
+      <img src="https://leetcard.jacoblin.cool/Moha2000-dev?theme=dark&font=Roboto&ext=heatmap" width="100%" />
     </td>
   </tr>
 </table>
+
