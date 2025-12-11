@@ -8,8 +8,8 @@
 - 💡 Always learning and building cool things with code
 
 ## 🚀 Tech Stack
-- 💻 Languages: `C#`, `Python`, `SQL`, `JavaScript`, `TypeScript`
-- 🧱 Frameworks: `.NET`, `React Native`, `ASP.NET`
+- 💻 Languages: `C#`, `Python`, `SQL`, `JavaScript`, `TypeScript` 
+- 🧱 Frameworks: `.NET`, `React Native`, `ASP.NET`,`angular` 
 - 🗃️ Databases: `SQL Server`, `MySQL`, `SQLite`
 - 🔍 Tools: `SSMS`, `Jupyter`, `Git`, `VS Code`, `Figma`, `GitHub`
 - 📊 Special Focus: `Database Normalization`, `SQL Joins`, `Subqueries`, `Error Debugging`
