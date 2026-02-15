@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed (Moha2000-dev)
+# 👋 Hi, I'm Mohammed
 
 ## 💻 About Me
 - 🎓 Computer Science graduate 
